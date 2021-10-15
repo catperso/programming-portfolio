@@ -26,6 +26,7 @@ em {
   text-decoration: underline;
   font-style: italic;
   color: rgb(0, 66, 92);
+  text-align: center;
 }
 
 .jumbotron {
@@ -66,19 +67,25 @@ em {
   text-align: center;
 }
 
-.project-a {
+.project-a .card-body {
   box-sizing: border-box;
   text-align: left;
+  background-color: rgba(110, 83, 231, 0.11);
+  border: 1px solid rgba(110, 83, 231, 0.315);
 }
 
-.project-b {
+.project-b .card-body {
   box-sizing: border-box;
   text-align: left;
+  background-color: rgba(146, 240, 83, 0.116);
+  border: 1px solid rgba(146, 240, 83, 0.247);
 }
 
-.project-c {
+.project-c .card-body {
   box-sizing: border-box;
   text-align: left;
+  background-color: rgba(44, 240, 230, 0.082);
+  border: 1px solid rgba(44, 240, 230, 0.185);
 }
 
 .other-info {
