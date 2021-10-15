@@ -54,7 +54,7 @@ em {
   box-sizing: border-box;
   margin: 5px;
   padding: 5px;
-  background-color: rgb(188, 235, 217);
+  background-color: rgb(199, 236, 202);
   border: 2px solid rgb(255, 173, 164);
   text-align: center;
 }
@@ -79,8 +79,7 @@ em {
   margin: 5px;
   padding: 5px;
   border: 2px solid salmon;
-  background-color: rgba(46, 139, 86, 0.219);
-}
+  background-color: rgb(217, 236, 199);}
 
 .project-minor li {
   text-decoration: underline;
@@ -91,13 +90,16 @@ em {
 }
 
 .skills {
-
+  box-sizing: border-box;
 }
 
 .outro {
-
+  box-sizing: border-box;
+  text-align: center;
+  background-color: rgb(199, 215, 236);
 }
 
 .important {
-
+  font-family: serif;
+  font-weight: bold;
 }
