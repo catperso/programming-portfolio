@@ -36,7 +36,20 @@ body {
 }
 
 .about {
+  box-sizing: border-box;
+}
 
+.about h2 {
+  font-weight: bolder;
+  color: rgb(0, 92, 72);
+  font-style: italic;
+}
+
+.about h6 {
+  font-style: italic;
+  font-family: serif;
+  font-weight: bold;
+  color: rgb(90, 90, 90);
 }
 
 .project-major {
