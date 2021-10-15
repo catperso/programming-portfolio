@@ -75,8 +75,22 @@ em {
   text-align: left;
 }
 
+.other-info {
+  box-sizing: border-box;
+  background-color: rgba(228, 236, 199, 0.493);
+  border: 1px solid rgba(255, 173, 164, 0.514);
+  padding: 5px;
+  margin: 5px;
+}
+
+.project-minor .card-body {
+  background-color: rgba(236, 220, 199, 0.493);
+  border: 1px solid rgba(228, 163, 79, 0.493);
+}
+
 .project-minor li {
   text-decoration: underline;
+  font-style: italic;
 }
 
 .skills-background .card-body {
@@ -84,8 +98,9 @@ em {
   border: 1px solid rgba(224, 98, 235, 0.493);
 }
 
-.skills {
-  box-sizing: border-box;
+.skills .card-body {
+  background-color: rgba(236, 199, 199, 0.493);
+  border: 1px solid rgba(228, 34, 34, 0.178);
 }
 
 .outro {
