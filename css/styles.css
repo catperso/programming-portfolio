@@ -13,6 +13,12 @@
 }
 
 .skills-background {
+  width: 30%;
+  float: left;
+  box-sizing: border-box;
+}
+
+.skills {
   width: 40%;
   float: left;
   box-sizing: border-box;
