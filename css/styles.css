@@ -5,3 +5,9 @@
   border: 5px solid orangered;
   margin: 10px;
 }
+
+.sidebar {
+  width: 35%;
+  float: right;
+  box-sizing: border-box;
+}
