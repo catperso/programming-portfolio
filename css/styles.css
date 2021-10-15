@@ -125,3 +125,18 @@ em {
   font-family: serif;
   font-weight: bold;
 }
+
+.selfie {
+  animation-duration: .75s;
+  animation-name: slidein;
+  overflow: hidden;
+}
+
+@keyframes slidein {
+  from {
+    margin-top: -100%;
+  }
+  to {
+    margin-top: 0%;
+  }
+}
