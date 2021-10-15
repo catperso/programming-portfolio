@@ -127,7 +127,7 @@ em {
 }
 
 .selfie {
-  animation-duration: .75s;
+  animation-duration: 2s;
   animation-name: slidein;
   overflow: hidden;
 }
