@@ -94,8 +94,17 @@ body {
   color: rgb(0, 92, 72);
 }
 
-.skills-background {
+.project-minor li {
+  text-decoration: underline;
+}
 
+.skills-background {
+  box-sizing: border-box;
+}
+
+.skills-background h2 {
+  color: rgb(0, 92, 72);
+  font-style: italic;
 }
 
 .skills {
