@@ -6,24 +6,6 @@
   margin: 10px;
 }
 
-.sidebar {
-  width: 30%;
-  float: right;
-  box-sizing: border-box;
-}
-
-.skills-background {
-  width: 30%;
-  float: left;
-  box-sizing: border-box;
-}
-
-.skills {
-  width: 40%;
-  float: left;
-  box-sizing: border-box;
-}
-
 .kitties {
   width: 100%;
   box-sizing: border-box;
