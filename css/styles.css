@@ -18,7 +18,21 @@ body {
 }
 
 .intro {
+  box-sizing: border-box;
+}
 
+.intro h1 {
+  font-family: serif;
+  font-weight: bolder;
+  font-size: 69px;
+  line-height: 69px;
+  color: rgb(0, 92, 72);
+}
+
+.intro p {
+  font-style: italic;
+  text-align: center;
+  margin-top: 30px;
 }
 
 .about {
