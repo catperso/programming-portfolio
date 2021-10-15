@@ -1,0 +1,7 @@
+.selfie {
+  width: 35%;
+  float: right;
+  box-sizing: border-box;
+  border: 5px solid orangered;
+  margin: 10px;
+}
